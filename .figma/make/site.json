@@ -1,0 +1,10 @@
+{
+  "description": "Securely manage and organize passwords with an intuitive interface, ensuring users can easily access and update their credentials anytime, anywhere.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
